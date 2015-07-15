@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kqulo2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_id">Email:</string>
+    <string name="ur_name">Name:</string>
+    <string name="ur_passwd">Password:</string>
+    <string name="reg_btn">REGISTER</string>
+    <string name="log_lnk"> Have an Account! Login Here!</string>
+    <string name="log_btn">LOGIN</string>
+    <string name="reglnk">New to kqulo? Register here!</string>
+
+</resources>
